@@ -205,6 +205,7 @@ body {
 
   #cennik {
     background-color: #333333;
+    height: 100vh; /*nefunguje*/
   }
 
   .prace {
