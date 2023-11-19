@@ -46,13 +46,10 @@ body {
     color: #fff;
   }
 
-  nav ul li a:hover {
-    text-decoration: none;
-    color: #bebebe;
-  }
 
   nav ul li a.active {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #bebebe;
   }
     
   section {
