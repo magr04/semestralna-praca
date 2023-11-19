@@ -43,13 +43,13 @@ body {
   
   nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #a2a2a2;
   }
 
 
   nav ul li a.active {
     text-decoration: none;
-    color: #bebebe;
+    color: #ffffff;
   }
     
   section {
